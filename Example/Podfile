@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'superzicoPodTest_Example' do
+  pod 'superzicoPodTest', :path => '../'
+
+  target 'superzicoPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
