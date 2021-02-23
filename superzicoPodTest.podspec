@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'superzicoPodTest'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of superzicoPodTest.'
+  s.version          = '0.2.0'
+  s.summary          = 'superzico玩组件化的测试.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/superzico@126.com/superzicoPodTest'
+  s.homepage         = 'https://github.com/SuperZico/superzicoPodTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'superzico@126.com' => 'superzico@126.com' }
-  s.source           = { :git => 'https://github.com/superzico@126.com/superzicoPodTest.git', :tag => s.version.to_s }
+  s.author           = { 'SuperZico' => 'superzico@126.com' }
+  s.source           = { :git => 'https://github.com/SuperZico/superzicoPodTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

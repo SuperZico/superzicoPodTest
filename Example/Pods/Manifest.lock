@@ -1,0 +1,16 @@
+PODS:
+  - superzicoPodTest (0.1.0)
+
+DEPENDENCIES:
+  - superzicoPodTest
+
+SPEC REPOS:
+  trunk:
+    - superzicoPodTest
+
+SPEC CHECKSUMS:
+  superzicoPodTest: 6cb05e470e2531142f222fdfcf6d997e60930709
+
+PODFILE CHECKSUM: b197c5064924721f99072650817d144326a12c57
+
+COCOAPODS: 1.10.1

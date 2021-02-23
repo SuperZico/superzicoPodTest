@@ -22,7 +22,7 @@ pod 'superzicoPodTest'
 
 ## Author
 
-superzico, superzico@126.com
+superzico@126.com, superzico@126.com
 
 ## License
 

@@ -7,6 +7,7 @@
 //
 
 #import "ZCViewController.h"
+#import "ZCTestManager.h"
 
 @interface ZCViewController ()
 
@@ -17,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    [[ZCTestManager shared] printSomeThing];
 }
 
 - (void)didReceiveMemoryWarning

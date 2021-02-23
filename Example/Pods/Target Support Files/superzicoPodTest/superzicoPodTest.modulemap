@@ -1,0 +1,6 @@
+framework module superzicoPodTest {
+  umbrella header "superzicoPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
